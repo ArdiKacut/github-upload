@@ -1010,7 +1010,7 @@ Merupakan dasar untuk melakukan koneksi ke database menggunakan PHP. Hal ini san
 
 ## Hasil
 
-![php mysql](Tampilkan_data.jpg)
+![php mysql](tampilkan_data.jpg)
 
 ## Analisis 
 
